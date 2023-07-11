@@ -1,0 +1,2 @@
+#set(SRC_LIST ${CMAKE_CURRENT_SOURCE_DIR})
+#target_sources(Lab PRIVATE ${SRC_LIST})
